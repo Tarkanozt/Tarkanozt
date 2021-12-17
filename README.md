@@ -2,8 +2,8 @@
 
 ### I'm a new graduated Computer Engineer and interested in iOS Development 👨‍💻
 
-- 🔭 I am currently HepsiBurada Mobile iOS Bootcamp Student at Patika.dev
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I am currently developing my own iOS app
+- 🌱 I’m currently learning everything about iOS and Swift programming 
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and piano
