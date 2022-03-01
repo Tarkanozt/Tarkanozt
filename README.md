@@ -5,8 +5,8 @@
 - 🔭 I am currently developing my own iOS app
 - 🌱 I’m currently learning everything about iOS and Swift programming 
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and piano
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play the guitar and piano
 
 ### 📫 How to reach me :
 
