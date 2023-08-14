@@ -1,6 +1,6 @@
 ## Hi there, I'm Tarkan 👋
 
-### I'm a new graduated Computer Engineer and interested in iOS Development 👨‍💻
+### I'm a new graduated Computer Engineer and interested in React Development 👨‍💻
 
 - 🔭 I am currently developing React apps
 - 🌱 I’m currently learning everything about Web Development
