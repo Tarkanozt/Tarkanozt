@@ -4,13 +4,12 @@
 
 - 🔭 I am currently developing React apps
 - 🌱 I’m currently learning everything about Web Development
-- 👯 I’m looking to collaborate with other developers 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play the guitar and piano
 
 ### 📫 How to reach me :
 
-<a href= "https://www.linkedin.com/in/tarkan-ozturk/" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href= "https://www.linkedin.com/in/tarkan-öztürk-b5b138199/" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
 
 ### Languages and Tools:
