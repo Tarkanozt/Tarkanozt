@@ -1,9 +1,9 @@
 ## Hi there, I'm Tarkan 👋
 
-### I'm a new graduated Computer Engineer and interested in React Development 👨‍💻
+### I'm a Computer Engineer and interested in React Development 👨‍💻
 
 - 🔭 I am currently developing React apps
-- 🌱 I’m currently learning everything about Web Development
+- 🌱 I’m currently learning everything about Web and Mobile Development
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play the guitar and piano
 
